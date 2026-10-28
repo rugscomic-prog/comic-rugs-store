@@ -1,0 +1,6 @@
+
+[functions.create-order]
+verify_jwt = false
+
+[functions.create-custom-request]
+verify_jwt = false
